@@ -43,7 +43,7 @@ Several machine learning regressors and classifiers are explored, implemented, a
 
 
 
-## PART 2 - 
+## PART 2 
 
 Studied dimensionality reduction, evaluation and ensemble techniques and using the same datasets as above, explored the effect of these techniques on the regression and classification models applied before. 
 - bagging
