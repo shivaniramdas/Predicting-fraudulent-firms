@@ -41,3 +41,17 @@ Location ID | Unique ID of the city/province
 
 Several machine learning regressors and classifiers are explored, implemented, and tested to check their applicability in the prediction of the high risk firms. For this we have considered Audit_Risk as the target columns for regression tasks, and Risk as the target column for classification tasks.
 
+
+
+## PART 2 - 
+
+Studied dimensionality reduction, evaluation and ensemble techniques and using the same datasets as above, explored the effect of these techniques on the regression and classification models applied before. 
+- bagging
+- pasting
+- adaboost boosting
+- gradient boosting
+- PCA on data and compared the results before and after applying PCA
+- deep learning models
+- voting classifiers - one with hard voting and one with soft voting for the classification tasks
+
+
